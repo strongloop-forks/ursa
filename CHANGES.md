@@ -1,4 +1,10 @@
-2018-09-15, Version 0.10.1
+2019-04-29, Version 0.11.0
+==========================
+
+ * Fix the code to be compatible with Node v12 (Raymond Feng)
+
+
+2018-09-14, Version 0.10.1
 ==========================
 
  * folk ursa (Raymond Feng)
